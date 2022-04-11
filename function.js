@@ -186,3 +186,4 @@ calculate(multiply, 2, 5)
 calculate(divide, 6, 2);
 calculate(remainder, 7, 3);
 calculate('asd', 4, 2);
+// switch문 사용 해볼것
